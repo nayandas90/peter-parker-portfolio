@@ -1,0 +1,59 @@
+
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 05%;
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+    size: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;   
+}
+.bgimage{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.bgimage2{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.bgimage3{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.half-widthP{
+    width: 40%;
+    font-size: medium;
+}
+.shad-css{
+    margin: 2.5% 0 10% 10%;
+    width: 50%;
+    box-shadow: 5px 7px 40px gray;
+}
+.line{
+    
+    border-left: 7px solid rgb(255, 24, 24);
+}
+footer{
+    text-align: center;
+}
